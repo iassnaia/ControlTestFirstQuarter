@@ -23,4 +23,6 @@ for GeekBrains
 * И так проверяется до конца.
 * Для наглядности выводим результат на экран с помощью метода **PrintArray**.
 
+
+### блок-схема
 ![block diagram](https://user-images.githubusercontent.com/110601635/193623381-e13d3076-8826-4123-9739-4c16c16ec943.jpg)
